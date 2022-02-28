@@ -17,8 +17,14 @@ The 4th column contains the text of the given verse. If one verse has several tr
 
 ### Resources available as TSV files
 
-The list of available Bible translations can be found on the [Parallel Bible Reader website](http://parallelbible.nytud.hu/info). It can only be found in Hungarian, but we will provide an English translation soon.
+The list of available Bible translations can be found on the [Parallel Bible Reader website](http://parallelbible.nytud.hu/info). 
 
 ### License
 
 The TSV files are published under [CC-BY-SA-4.0 license](https://creativecommons.org/licenses/by/4.0/).
+
+### Citation
+
+If you use this resource, please refer to:
+
+[Simon Eszter, Kalivoda Ágnes: A Párhuzamos Bibliakorpusz és Bibliaolvasó fejlesztése. In: Általános Nyelvészeti Tanulmányok 32. 2020.](https://www.academia.edu/44155812/A_P%C3%A1rhuzamos_Bibliakorpusz_%C3%A9s_Bibliaolvas%C3%B3_fejleszt%C3%A9se) 
