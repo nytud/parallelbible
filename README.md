@@ -19,6 +19,8 @@ The 4th column contains the text of the given verse. If one verse has several tr
 
 The list of available Bible translations can be found on the [Parallel Bible Reader website](http://parallelbible.nytud.hu/info). 
 
+Three resources (Káldi Neo-Vulgate, Bible of the St. Stephen Association, New translation by the Hungarian Bible Society) could not be made public here due to copyright issues.
+
 ### License
 
 The TSV files are published under [CC-BY-SA-4.0 license](https://creativecommons.org/licenses/by/4.0/).
